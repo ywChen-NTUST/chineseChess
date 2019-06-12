@@ -2,7 +2,7 @@
 Chinese chess game
 
 ## Original usage
-I wrote this project for <i>NTUST's <b>1072 物件導向程式設計實習 Lab for Object oriented programing(CS1010301)</b> first project</i>.
+I wrote this project for <b>NTUST's <i>1072 物件導向程式設計實習 Lab for Object oriented programing(CS1010301)</i> course</b> first project.
 
 
 <b> Still writing!</b>
