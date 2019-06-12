@@ -1,4 +1,4 @@
-# chineseChess
+# ChineseChess
 Chinese chess game
 
 ## Original usage
