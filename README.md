@@ -1,5 +1,5 @@
 # ChineseChess
-Chinese chess game
+Chinese chess game(windows desktop version)
 
 ## Original usage
 I wrote this project for <b>NTUST's 1072 <i>物件導向程式設計實習 Lab for Object oriented programing(CS1010301)</i> course</b> first project.
